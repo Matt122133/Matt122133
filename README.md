@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matt122133
-- 🌱 I’m currently studying computer technologist and taking a programming course called Jovenes a Programar (JaP) wich is focuses on Web Development.
-- 💞️ I’m looking for my first job experience in order to improve my skills.
+- 🌱 I’m currently studying computer technologist and i'm working as Backend Developer at Cencosud S.A.
+- 💞️ I'm working with Nest.js and TypeScript. I reaaly want to improve my FrontEnd Mobile skills in iOS.
 - 📫 How to reach me?, this is my LinkedIn https://www.linkedin.com/in/mateo-tambasco-375433237/
 
 <!---
